@@ -1,0 +1,1 @@
+# Arquitetura\n\nMódulo independente no Vercel, conectado ao GitHub e Supabase. Fluxo: cliente → orçamento IA → aprovação → ordem de serviço.
